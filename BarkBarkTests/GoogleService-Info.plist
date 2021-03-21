@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>936734273394-b72n7eq8k2ee0jst8n27utj76b0jj161.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.936734273394-b72n7eq8k2ee0jst8n27utj76b0jj161</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2BZowe5L-h3SxgX--EuR_YOy78cDcBNo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>936734273394</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sasha.BarkBark</string>
+	<key>PROJECT_ID</key>
+	<string>barkographynew</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barkographynew.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:936734273394:ios:f3308eeb3bb0a900d337eb</string>
+</dict>
+</plist>

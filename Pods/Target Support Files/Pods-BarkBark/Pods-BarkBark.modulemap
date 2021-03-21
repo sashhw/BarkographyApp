@@ -1,0 +1,6 @@
+framework module Pods_BarkBark {
+  umbrella header "Pods-BarkBark-umbrella.h"
+
+  export *
+  module * { export * }
+}
